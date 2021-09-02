@@ -38,13 +38,13 @@
   --matterColor: #4a4a4a;
   --matterColorAnti: #b2b2b2;
   --matterColorNegative: #e7e7e7;
-  --matterColorBright: rgb(31, 41, 53);
-  --matterColorLight: rgb(239, 166, 125);
+  --matterColorBright: #457847;
+  --matterColorLight: #eaebe3;
 
   --matterColorLightTransparent: rgba(255, 255, 255, 0.65);
 
   /* ================ Font ================ */
-  --fontFamily: 'poppins', Helvetica, Arial, sans-serif;
+  --fontFamily: 'Lack', Helvetica, Arial, sans-serif;
 
   --fontWeightRegular: 400;
   --fontWeightMedium: 500;
